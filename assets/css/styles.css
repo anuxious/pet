@@ -16,7 +16,7 @@
   --text-color: hsl(var(--hue-color), 12%, 35%);
   --text-color-light: hsl(var(--hue-color), 12%, 65%);
   --white-color: #FFF;
-  --body-color: hsl(var(--hue-color), 100%, 99%);
+  --body-color: #236374;
   --container-color: #FFF;
 
   /*========== Font and typography ==========*/
