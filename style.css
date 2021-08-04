@@ -5,6 +5,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
+  background-color: #CCF3F4;
 }
 
 section{
@@ -14,7 +15,7 @@ section{
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  background-color: #CCF3F4, repeat: 200% ;
+  background-color: #CCF3F4;
   background: url(background.png)no-repeat;
   background-size: cover;
   background-position: center;
